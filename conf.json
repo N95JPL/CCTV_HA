@@ -1,0 +1,18 @@
+{
+    "show_video": true,
+    "ip_cam_addr": "rtsp://192.168.0.22:1554/live/ch0?token=f86435a6d9f82d47d6a10bf115bad53e",
+    "create_image": true,
+    "resolution": [1280, 960],
+    "fps": 16,
+    "min_area": 500,
+    "userVideoDir": "/home/n95jpl/Documents/openCV/Recording/Video/",
+    "userImageDir": "/home/n95jpl/Documents/openCV/Recording/Image/",
+    "resizeWidth": 1080,
+    "camera_name": "Home: Front Door",
+    "confidence": 0.6,
+    "person_image_file": "person",
+    "dayFolder": true,
+    "detectTime": 0.5,
+    "bufferSize": 32,
+    "scale": 0.01
+  }
